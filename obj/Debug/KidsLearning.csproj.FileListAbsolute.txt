@@ -1,0 +1,8 @@
+D:\Simplilearn\Day -18\Assignment\KidsLearning\KidsLearning\bin\Debug\KidsLearning.exe.config
+D:\Simplilearn\Day -18\Assignment\KidsLearning\KidsLearning\bin\Debug\KidsLearning.exe
+D:\Simplilearn\Day -18\Assignment\KidsLearning\KidsLearning\bin\Debug\KidsLearning.pdb
+D:\Simplilearn\Day -18\Assignment\KidsLearning\KidsLearning\obj\Debug\KidsLearning.csproj.AssemblyReference.cache
+D:\Simplilearn\Day -18\Assignment\KidsLearning\KidsLearning\obj\Debug\KidsLearning.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Day -18\Assignment\KidsLearning\KidsLearning\obj\Debug\KidsLearning.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Day -18\Assignment\KidsLearning\KidsLearning\obj\Debug\KidsLearning.exe
+D:\Simplilearn\Day -18\Assignment\KidsLearning\KidsLearning\obj\Debug\KidsLearning.pdb
